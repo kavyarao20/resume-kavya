@@ -80,7 +80,7 @@ body{
     font-size: 1.8rem;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #612ddb;
+    color: green;
     padding-top: 3rem;
 }
 
@@ -152,7 +152,7 @@ body{
     font-size: large;
     padding-right: .5rem;
     font-size: 1.2rem;
-    color: #612ddb;
+    color: blue;
 }
 
 .right-main-content{
